@@ -1,4 +1,4 @@
-# 🚀 DEPtHOS
+# 🚀 DEPTHOS
 
 
 
