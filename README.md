@@ -1,4 +1,7 @@
-# 🚀 MarketForge
+# 🚀 DEPtHOS
+
+
+
 ### Institutional-Style Gate.io Market-Making Infrastructure for Low-Nominal Perpetuals
 
 > **Multi-ticker execution engine for Gate.io perpetual futures with market data, OMS, risk controls, reconciliation, backtesting, observability, and API-ready architecture.**
